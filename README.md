@@ -7,29 +7,25 @@
 
 ## Índice
 
-*[Challenge-ONE-Back-End-Conversor-De-Moneda](#Challenge-ONE-Back-End-Conversor-De-Moneda)
+* [Challenge-ONE-Back-End-Conversor-De-Moneda](#Challenge-ONE-Back-End-Conversor-De-Moneda)
 
-*[Badges](#Badges)
+* [Badges](#Badges)
 
-*[Índice](#Índice)
+* [Índice](#Índice)
 
-*[Descripción del proyecto](#Descripción-del-proyecto)
+* [Descripción del proyecto](#Descripción-del-proyecto)
 
-*[Estado del proyecto](#Estado-del-proyecto)
+* [Estado del proyecto](#Estado-del-proyecto)
 
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+* [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-*[Acceso al proyecto](#Acceso-al-proyecto)
+* [Acceso al proyecto](#Acceso-al-proyecto)
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
+* [Tecnologías utilizadas](#Tecnologías-utilizadas)
 
-*[Personas Contribuyentes](#personas-contribuyentes)
+* [Personas Contribuyentes](#Personas-Contribuyentes)
 
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-* [Licencia](#licencia)
-
-*[Conclusión](#conclusión)
+* [Personas-Desarrolladores del Proyecto](#Personas-desarolladoras-del-proyecto)
 
 ## Descripción-del-proyecto:
   1). Conversión de Monedas: Permitir a los usuarios convertir entre diferentes monedas utilizando tasas de cambio establecida para el proyecto. Esto facilitaría   la comparación de precios y el cálculo de costos en diferentes monedas(De Pesos a Dólar, De Pesos a Euro, De Pesos a Libras Esterlinas, De Pesos a Yen, De Pesos a Won Coreano, De Dólar a Pesos, De Euro a Pesos, De Libras a Pesos, De Yen a Pesos y De Won Coreano a Pesos) al realizar transacciones internacionales.
@@ -89,3 +85,16 @@ Como funcionalidad en común al momento de ingresar el valor este input es contr
 
  :computer: Abre y ejecuta el proyecto
  Una vez descargado el proyecto procede a abrir su editor de código preferido ya sea Eclipce, NetBeasn o Visual Studio Code. Posteriormente se procede a abrir el proyecto y una vez abierto se dirige a la ruta Challenge_ONE_Back_End/src/com.conversor/dialog/ Menu_Principal.java, el archivo menú principal será en donde se realizar el inicio de ejecución del proyecto.
+
+ ## :heavy_check_mark: Tecnologías-utilizadas
+* Java
+
+## Personas-Contribuyentes
+@Ellen Prado Pimentel
+@Génesys Rondón
+@Eric Monné
+
+## Personas-desarolladoras-del-proyecto
+| [<img src="https://avatars.githubusercontent.com/u/64171570?v=4" width=115><br><sub>Aristobulo Briceño De La Espriella</sub>](https://github.com/aristobulo99) |
+| :---: |
+
