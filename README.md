@@ -40,3 +40,45 @@
 
   4). Conversión de Temperatura: Posibilitar la conversión entre escalas de temperatura como Celsius, Fahrenheit y Kelvin. Esto permitiría a los usuarios comprender las temperaturas en diferentes regiones del mundo o en diversos campos científicos.
 
+## Estado-del-proyecto
+
+:trophy: Proyecto finalizado :trophy:
+
+## Características-de-la-aplicación-y-demostración
+:hammer: Funcionalidad 1: Al elegir el conversor de monedas se despliega un nueva pestaña en la que nos indica que debemos de ingresar la cantidad monetaria que deseamos convertir. Despues de ingresar un valor valido se procede a seleccionar la opción de conversión de la moneda:
+[
+	"De Pesos a Dólar",
+	"De Pesos a Euro",
+"De Pesos a Libras Esterlinas",
+	"De Pesos a Yen",
+	"De Pesos a Won Coreano",
+	"De Dólar a Pesos",
+	"De Euro a Pesos",
+	"De Libras a Pesos",
+	"De Yen a Pesos",
+	"De Won Coreano a Pesos"
+]
+Para cada conversión se tiene los valores respectivos por defecto:
+[
+	4168.00,
+	4552.08,
+	5296.07,
+	28.88,
+	3.17,
+	4168.00,
+	4552.08,
+	5296.07,
+	28.88,
+	3.17
+]
+Una vez seccionada la moneda la clase procede a realizar la respectiva conversión.
+
+:hammer: Funcionalidad 2: Al elegir el conversor de Masa se despliega un nueva pestaña en la que nos indica que debemos de ingresar la cantidad que deseamos convertir. Después de ingresar un valor valido se procede a seleccionar la unidad asociada al valor ingresado ya sea Microgramo, Miligramo, gramos, kilogramos o Toneladas. Posteriormente se despliega una pestaña que no indica cual es la unidad que deseamos convertir siendo Microgramo, Miligramo, gramos, kilogramos o Toneladas, una vez seleccionada la opción se despliega una pestaña indicándonos el resultado.
+
+:hammer: Funcionalidad 3: Al elegir el conversor de Longitud se despliega un nueva pestaña en la que nos indica que debemos de ingresar la cantidad que deseamos convertir. Después de ingresar un valor valido se procede a seleccionar la unidad asociada al valor ingresado ya sea Micrómetro, Milímetro, Centímetro, Metros o Kilometro. Posteriormente se despliega una pestaña que no indica cual es la unidad que deseamos convertir siendo sea Micrómetro, Milímetro, Centímetro, Metros o Kilometro, una vez seleccionada la opción se despliega una pestaña indicándonos el resultado.
+
+:hammer: Funcionalidad 4: Al elegir el conversor de Temperatura se despliega un nueva pestaña en la que nos indica que debemos de ingresar la cantidad que deseamos convertir. Después de ingresar un valor valido se procede a seleccionar la unidad asociada al valor ingresado ya sea Celsius, Fahrenheit o Kelvin. Posteriormente se despliega una pestaña que no indica cual es la unidad que deseamos convertir siendo sea Celsius, Fahrenheit o Kelvin, una vez seleccionada la opción se despliega una pestaña indicándonos el resultado.
+
+:hammer: Funcionalidad 5: 
+Como funcionalidad en común al momento de ingresar el valor este input es controlado con la finalidad que solo se pueden ingresar valores de tipo Integer  o Double, si se ingresa otro tipo de valor al procedes de despliega una pestaña lanzado un mensaje con el tipo de excepción. También al momento de terminar contamos con una pestaña dispuesto con un mensaje preguntándonos si queremos continuar en donde contamos con opciones como Si, No o Cancelar.
+
