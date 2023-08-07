@@ -19,7 +19,7 @@
 
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-*[Acceso al proyecto](#acceso-proyecto)
+*[Acceso al proyecto](#Acceso-al-proyecto)
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 
@@ -82,3 +82,10 @@ Una vez seccionada la moneda la clase procede a realizar la respectiva conversi�
 :hammer: Funcionalidad 5: 
 Como funcionalidad en común al momento de ingresar el valor este input es controlado con la finalidad que solo se pueden ingresar valores de tipo Integer  o Double, si se ingresa otro tipo de valor al procedes de despliega una pestaña lanzado un mensaje con el tipo de excepción. También al momento de terminar contamos con una pestaña dispuesto con un mensaje preguntándonos si queremos continuar en donde contamos con opciones como Si, No o Cancelar.
 
+## Acceso-al-proyecto
+
+:open_file_folder: Acceso al proyecto
+	El proyecto es de uso libre, puede realizar la descarga del archivo comprimido en el siguiente enlace https://github.com/aristobulo99/Challenge-ONE-Back-End-Conversor-De-Moneda/archive/refs/heads/master.zip o realizar una clonación del mismo repositorio.
+
+ :computer: Abre y ejecuta el proyecto
+ Una vez descargado el proyecto procede a abrir su editor de código preferido ya sea Eclipce, NetBeasn o Visual Studio Code. Posteriormente se procede a abrir el proyecto y una vez abierto se dirige a la ruta Challenge_ONE_Back_End/src/com.conversor/dialog/ Menu_Principal.java, el archivo menú principal será en donde se realizar el inicio de ejecución del proyecto.
